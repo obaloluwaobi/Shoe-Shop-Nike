@@ -1,6 +1,7 @@
 {
     "name": "simple_cart",
     "short_name": "simple_cart",
+    "installable": false,
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
